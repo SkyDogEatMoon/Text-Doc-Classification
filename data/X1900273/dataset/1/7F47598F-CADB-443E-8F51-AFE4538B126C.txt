@@ -1,0 +1,11 @@
+比特幣分裂、新幣1天衝逾100%！CBOE期貨年底有譜？                                                    
+
+比特幣鬧內鬨，在美國時間8月1日一分為二，誕生了新的虛擬貨幣「Bitcoin Cash」，提供更大的區塊(blocks)，讓礦工加快交易的處理速度。Bitcoin Cash在交易第一天一口氣暴衝逾100%，已成為規模第三大的虛擬貨幣。就在比特幣分家之際，芝加哥選擇權交易所(CBOE)則正在緊鑼密鼓，籌備發行傳統比特幣的選擇權和衍生性金融商品。
+英國金融時報、CNBC報導，CBOE 2日敲定了一份獨家授權協議，將向雙胞胎兄弟Cameron Winklevoss和Tyler Winklevoss經營的虛擬貨幣交易所「Gemini Trust」，取得傳統比特幣的報價資料。Gemini受到紐約州金融服務廳(NYDFS)監管，可讓用戶在交易比特幣的同時，也將之連結至一般的銀行帳戶。
+CBOE直指，比特幣期貨合約若獲得主管機關核准，今(2017)年底就可順利發行，屆時將透過選擇權結算公司(Option Clearing Corporation, OCC)進行結算。
+過去五年來，在外流通的比特幣總市值，已從不到100億美元膨脹至接近500億美元，而所有在外流通虛擬貨幣的總市值更接近1,000億美元。
+比特幣內戰喧擾已久，美國時間8月1日終於分裂，出現「Bitcoin Cash」和傳統比特幣打對台。MarketWatch、Zero Hedge、Quartz 2日報導，Coin Marketcap報價顯示，Bitcoin Cash在誕生後的短短24小時內，幣值曾一口氣暴衝122%之多，來到626美元(詳細報價見此)。Bitcoin Cash在中國交易所幣行網(OKCoin)的漲勢更加驚人，1日剛開始交易時報價還只有270美元，2日稍早暴衝至超過900美元，之後才拉回至660美元附近。
+據Coin Marketcap的資料，Bitcoin Cash如今市值已膨脹至76億美元，大約是傳統比特幣總市值(444億美元)的17%，也成為全球市值第三大的虛擬貨幣，僅次於傳統比特幣和以太幣(Ethereum，總市值為210億美元)。
+不過，分析人士警告，Bitcoin Cash成交量低迷，恐怕讓報價遭到扭曲。比特幣用戶在分裂日當天都免費收到了Bitcoin Cash，但因交易所還在更新電子錢包軟體，用戶至今還無法提領這些虛擬貨幣。ARKInvest前任區塊鍊分析師Chris Burniske說，比特幣才剛分裂24小時，且新幣還無法提領，因此他現在不會過度解讀報價上的波動。
+CNBC、Inquirer、華爾街日報報導，支援新版虛擬貨幣相當費工夫，不少交易所選擇靜觀其變，不支援Bitcoin Cash。有些認為要是沒有足夠礦工支持，Bitcoin Cash將消失，無須費事更動系統。有的想等情勢更明朗之後再決定。Coindesk、Coinbase等平台都不支持Bitcoin Cash。
+比特幣和Bitcoin Cash的差異在於，Bitcoin Cash的區塊容量將一口氣從1MB增至8MB。比特幣則採取「SegWit2x」(Segregated Witness 2x、隔離見證2x)，解決擴容問題。

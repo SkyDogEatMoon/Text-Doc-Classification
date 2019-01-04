@@ -1,0 +1,10 @@
+比特幣確定分裂！新幣價格上沖下洗、飆50%後狂瀉                                                        
+
+比特幣內戰喧擾已久，美國時間8月1日終於分裂，出現「Bitcoin Cash」和傳統比特幣打對台。新版比特幣Bitcoin Cash現身之際，價格一度飆漲50%，但是隨即重挫。
+CNBC、Inquirer、華爾街日報報導，CoinMarketCap報價顯示，1日Bitcoin Cash期貨價格大漲48%至422美元，但是不久後重挫26%至214美元，價格大約只有原版比特幣的1/10左右(見此的圖一)。
+傳統比特幣7月份大漲10%，8月1日受到分裂問題拖累走低，來到2,776.58美元(見附圖)。
+支援新版虛擬貨幣相當費工夫，不少交易所選擇靜觀其變，不支援Bitcoin Cash。有些認為要是沒有足夠礦工支持，Bitcoin Cash將消失，無須費事更動系統。有的想等情勢更明朗之後再決定。Coindesk、Coinbase等平台都不支持Bitcoin Cash。
+Bitcoin Cash前景不明，但是挖礦完成時間比預期更長，讓部分人士憂慮不已。比特幣分裂過後六小時，礦工才完成第一個Bitcoin Cash區塊交易。線上交易投資社群eToro主管Iqbal Gandham說，從第一個區塊挖礦完成時間，可以看出背後的運算資源，外界似乎高估了挖礦實力和礦工的支持程度，實際挖礦時間比預估更久。
+比特幣和Bitcoin Cash的差異在於，Bitcoin Cash的區塊容量將一口氣從1MB增至8MB。比特幣則採取「SegWit2x」(Segregated Witness 2x、隔離見證2x)，解決擴容問題。
+CNBC、Fortune、Business Insider先前報導，比特幣人氣旺，但是內建的區塊容量過小，拖慢處理速度，多年來相關人士為了如何解決爭執不休。先前眾人同意啟動新軟體「SegWit2x」(Segregated Witness 2x、隔離見證2x)，把區塊容量由1MB增至2MB(全文見此)。
+上週為止，此一解決方案獲得大多數人支持，比特幣分裂危機降溫。不料突然間由前臉書工程師Amaury Sechet領軍的一小批人馬，堅稱SegWit2x改革腳步過慢，決定自行推出新版比特幣Bitcoin Cash，一口氣把區塊容量增至8MB。
