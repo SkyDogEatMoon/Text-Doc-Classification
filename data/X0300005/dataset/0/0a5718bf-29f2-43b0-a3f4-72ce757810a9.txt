@@ -1,0 +1,11 @@
+iPhone 8具革命性前置相機、可3D自拍？傳沒曲面螢幕                                                   
+
+日本網站gori.me、taisy.0 21日轉述9To5Mac、MacRumors的報導指出，曾多次準確預測蘋果產品動向的凱基投顧知名分析師郭明錤最新出具報告指出，蘋果(Apple)即將在今年推出的次代iPhone產品中、搭載OLED面板的iPhone 8將擁有「革命性」的前置相機系統，其前置相機將大升級、具備3D感測功能，且該前置相機系統將採用蘋果2013年收購的3D感測器技術商PrimeSense的技術。
+郭明錤指出，iPhone 8前置相機系統除現有的前置相機模組之外，還將追加紅外線發送模組以及紅外線接收模組，藉此可進行臉部辨識、虹膜辨識，且可進行3D自拍(3D selfies、可拍攝立體的自拍照)。
+郭明錤表示，iPhone 8前置相機系統採用的紅外線發送模組將使用和Lumentum共同研發的3D感測技術，紅外線接收模組將由鴻海(2317、Foxconn)/夏普(Sharp)製造、前置相機由Sony製造。
+另外，gori.me、taisy.0並於21日引述TrendForce最新公布的調查報告指出，iPhone 8將採用5.8吋OLED面板，不過不會採用曲面螢幕、而這主要是因為面板良率問題和落下測試未能通過所致。
+TrendForce指出，iPhone 8將搭載3GB RAM、64GB/256GB ROM，且搭載3D感測技術，因此可支援臉部辨識、擴增實境(AR)功能；另外，4.7吋和5.5吋次代iPhone將持續採用液晶面板，其RAM容量分別為2GB、3GB。
+根據嘉實XQ全球贏家系統報價，蘋果21日上揚0.72%、收136.7美元、再創歷史收盤新高。
+近來有越來越多消息顯示iPhone 8將具備臉部辨識功能。
+日本蘋果情報網站iPhone Mania 17日轉述MacRumors的報導指出，摩根大通(JPMorgan Securities)分析師Rod Hall出具報告指出，iPhone 8因採用全螢幕(無邊框)設計，因此會取消物理性Home鍵，而蘋果會在正面搭載3D雷射掃描儀取代Touch ID，藉此可讓iPhone 8可進行3D臉部辨識，且若供應商能增加掃描模組供應量的話，4.7吋iPhone 7s/5.5吋iPhone 7s Plus也可能會搭載3D雷射掃描。
+日本網站iPhone Mania、gori.me 1月19日轉述AppleInsider的報導指出，Cowen and Company分析師Timothy Arcuri 18日出具研究報告，iPhone 8藉由在FaceTime相機附近新設紅外線感測器，可讓iPhone 8支援臉部/手勢辨識功能，且可能將支援無線充電。
